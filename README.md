@@ -18,7 +18,6 @@ I'm a blue teamer and a builder. I have a decade of responding to complex securi
 - **[SpotSpoof](https://spotspoof.com)** - Typosquat detection & Punycode decoder
   - 🌐 [Web App](https://spotspoof.com) - Search and decode suspicious domains
   - ⚡ [CLI Tool](https://github.com/slimpagey/spotspoof-cli) - Command-line domain analysis
-  - 🔗 Cortex Analyzer *(coming soon)* - SOAR integration for TheHive
 
 - **[ReportOnlineFraud.com](https://reportonlinefraud.com) WIP!** - AI-powered fraud reporting automation that analyses phishing emails and typosquat domains, then automatically reports to relevant authorities
 
